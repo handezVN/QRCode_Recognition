@@ -1,3 +1,10 @@
+Tutorial for ESP32
+Step 1 : Download 
+Step 2 : Open with Arduino
+Step 3 : Modify 
+![image](https://user-images.githubusercontent.com/74038883/167818826-8c8b869a-deb2-48f9-a54e-5f6f86f7ad11.png)
+UserName and Password of wifi .
+Step 4 : Build to your ESP32 .
 Quirc
 =====
 
